@@ -1,0 +1,1 @@
+{"inputs":["C:\\src\\flutter\\packages\\flutter_tools\\lib\\src\\build_system\\targets\\localizations.dart","C:\\app_base\\l10n.yaml","C:\\app_base\\lib\\l10n\\app_en.arb","C:\\app_base\\lib\\l10n\\app_pt.arb"],"outputs":["C:\\app_base\\lib\\l10n\\app_localizations_en.dart","C:\\app_base\\lib\\l10n\\app_localizations_pt.dart","C:\\app_base\\lib\\l10n\\app_localizations.dart"]}

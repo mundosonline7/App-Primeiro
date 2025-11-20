@@ -1,0 +1,1 @@
+ C:\\app_base\\lib\\l10n\\app_localizations_en.dart C:\\app_base\\lib\\l10n\\app_localizations_pt.dart C:\\app_base\\lib\\l10n\\app_localizations.dart:  C:\\app_base\\l10n.yaml C:\\app_base\\lib\\l10n\\app_en.arb C:\\app_base\\lib\\l10n\\app_pt.arb
